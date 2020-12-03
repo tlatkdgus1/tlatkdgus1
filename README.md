@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20%EC%BD%94%EB%93%9C%20%EB%9D%BC%EC%9D%B8%20%EC%88%98-blue)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.6%20million%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **🐱 저의 깃허브 정보에요.** 
 
@@ -13,9 +13,9 @@
  > 
 > 🚫 일하는 회사가 없어요.
  > 
-> 📜 48개의 Public Repositories를 만들었어요. 
+> 📜 48개의 Public Repository를 만들었어요. 
  > 
-> 🔑 4개의 Private Repositories를 만들었어요.  
+> 🔑 4개의 Private Repository를 만들었어요.  
 
 **저는 아침형 인간이에요. 🐤** 
 
