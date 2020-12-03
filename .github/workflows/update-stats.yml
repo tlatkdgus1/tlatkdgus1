@@ -22,3 +22,4 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_SHORT_INFO: "True"
+          LOCALE: "ko"
