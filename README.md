@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 🔭 I’m currently working on ... </br></br>
+[![Awesome Badges](https://img.shields.io/badge/Introduce-EN-green.svg)](https://github.com/tlatkdgus1/tlatkdgus1/blob/main/README.md.en)
+
 <!--START_SECTION:waka-->
 **🐱 저의 Github 정보에요.** 
 
