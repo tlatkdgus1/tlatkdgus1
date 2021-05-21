@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 **🐱 저의 Github 정보에요.** 
 
-> 🏆 349 만큼의 Contributions을 2021년에 했어요
+> 🏆 351 만큼의 Contributions을 2021년에 했어요
  > 
 > 📦 Github의 95.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
-> 📜 49개의 Public Repository를 만들었어요. 
+> 📜 50개의 Public Repository를 만들었어요. 
  > 
 > 🔑 6개의 Private Repository를 만들었어요.  
 
