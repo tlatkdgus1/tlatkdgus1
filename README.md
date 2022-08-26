@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 **🐱 저의 Github 정보에요.** 
 
-> 🏆 619 만큼의 Contributions을 2022년에 했어요
+> 🏆 621 만큼의 Contributions을 2022년에 했어요
  > 
 > 📦 Github의 96.0 kB만큼의 저장소를 사용하고 있어요. 
  > 
@@ -13,7 +13,7 @@
  > 
 > 📜 52개의 Public Repository를 만들었어요. 
  > 
-> 🔑 6개의 Private Repository를 만들었어요.  
+> 🔑 7개의 Private Repository를 만들었어요.  
 
 **저는 아침형 인간이에요. 🐤** 
 
