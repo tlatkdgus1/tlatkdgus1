@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 **🐱 저의 Github 정보에요.** 
 
-> 🏆 677 만큼의 Contributions을 2026년에 했어요
+> 🏆 678 만큼의 Contributions을 2026년에 했어요
  > 
 > 📦 Github의 162.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
@@ -13,7 +13,7 @@
  > 
 > 📜 60개의 Public Repository를 만들었어요. 
  > 
-> 🔑 21개의 Private Repository를 만들었어요.  
+> 🔑 22개의 Private Repository를 만들었어요.  
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -44,13 +44,13 @@
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               17 mins             █████████████████████████   100.0%
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              17 mins             █████████████████████████   100.0%
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      17 mins             █████████████████████████   100.0%
+이번 주에 활동은 없어요.
 
 ```
 
