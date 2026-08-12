@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 **🐱 저의 Github 정보에요.** 
 
-> 🏆 1,011 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,039 만큼의 Contributions을 2026년에 했어요
  > 
-> 📦 Github의 201.4 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 Github의 202.5 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
