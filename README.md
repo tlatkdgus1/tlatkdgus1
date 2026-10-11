@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 **🐱 저의 Github 정보에요.** 
 
-> 🏆 1,758 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,759 만큼의 Contributions을 2026년에 했어요
  > 
 > 📦 Github의 215.4 kB만큼의 저장소를 사용하고 있어요. 
  > 
 > 🚫 구직중이지 않아요.
  > 
-> 📜 60개의 Public Repository를 만들었어요. 
+> 📜 61개의 Public Repository를 만들었어요. 
  > 
 > 🔑 24개의 Private Repository를 만들었어요.  
 
@@ -44,20 +44,20 @@
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               18 hrs 2 mins       █████████████░░░░░░░░░░░░   51.86% 
-Other                    7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   22.37% 
-Markdown                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
-Bash                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
-Java Properties          1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
+TypeScript               18 hrs 2 mins       ██████████████░░░░░░░░░░░   56.77% 
+Other                    8 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   27.29% 
+Bash                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.35% 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.5% 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 🔥 에디터들: 
-Claude Code              28 hrs 35 mins      ████████████████████░░░░░   82.13% 
-Cursor                   5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
-Codex Vscode             57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
+Claude Code              26 hrs 4 mins       ████████████████████░░░░░   82.01% 
+Cursor                   5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
+Codex Vscode             35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
 Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 운영 체제들: 
-Mac                      34 hrs 48 mins      █████████████████████████   100.0%
+Mac                      31 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
